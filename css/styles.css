@@ -1,0 +1,47 @@
+.footer {
+  background-color: rgb(77, 76, 76);
+  margin: 10px;
+  color: whitesmoke;
+}
+.btn-std {
+  background-color: rgb(224, 106, 42);
+}
+.btn-std:hover {
+  background-color: rgb(252, 146, 89);
+}
+.nav-std {
+  background-color: rgb(77, 76, 76);
+  margin-bottom: 1rem;
+}
+ul.nav-list li a {
+  color: whitesmoke;
+}
+ul.nav-list li a:hover {
+  color: rgb(252, 146, 89);
+}
+.card-custom {
+  overflow: hidden;
+}
+.card-custom:hover {
+  -webkit-box-shadow: 3px 4px 13px 2px rgba(0, 0, 0, 0.81);
+  box-shadow: 3px 4px 13px 2px rgba(0, 0, 0, 0.81);
+  transition: 0.3s all ease-in-out;
+}
+.movie-text{
+  font-weight: 500;
+}
+.wrapper{
+  margin-top: 2rem;
+}
+.list{
+  list-style: none;
+}
+.movie-card{
+  padding:0.5rem;
+}
+.btn-wrapper{
+  margin-top:10px;
+}
+.active{
+  color:rgb(232, 219, 219);
+}
